@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://calckaro-omega.vercel.app/sitemap.xml
