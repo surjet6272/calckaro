@@ -1,0 +1,6 @@
+{
+  "name": "CalcKaro - Calculator Hub",
+  "description": "CalcKaro - Fast, client-side financial, educational, and daily life calculators tailored for Indian users with real-time sliders and Indian number formatting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
